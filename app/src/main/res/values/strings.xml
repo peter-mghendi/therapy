@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Therapy</string>
+    <string name="type_a_message">Type a message…</string>
+    <string name="send_button">send button</string>
+    <string name="no_conversations_found">No conversations found for %s</string>
+    <string name="showing">Showing %s</string>
+    <string name="today_button">Today button</string>
+    <string name="back_to_today">Back to Today</string>
+    <string name="submit_button">submit button</string>
+    <string name="delete_button">delete button</string>
+    <string name="enter_your_passcode">Enter your Passcode:</string>
+</resources>
